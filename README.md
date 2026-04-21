@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Digital humanities and research data management, with a focus on computational methods for humanities research. I advise researchers on the use of large language models, develop benchmarks for evaluating LLM performance on humanities tasks, and design data infrastructure for research workflows. Further areas of expertise include knowledge organization systems, machine indexing, research software development, and FAIR data dissemination. My background combines philosophy (philosophy of bioinformatics, formal epistemology), mathematical logic, and library and information science.
+Digital humanities and research data management, with a focus on computational methods for humanities research. I advise researchers on the use of large language models, develop benchmarks for evaluating LLM performance on humanities tasks, and design data infrastructure for research workflows. Further areas of expertise include knowledge organization systems, machine indexing, research software development, and FAIR data dissemination. My background combines philosophy (philosophy of bioinformatics, philosophy of science), mathematical logic, and library and information science.
 <!--
 **MHindermann/mhindermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
